@@ -1,0 +1,27 @@
+#div2
+{
+	overflow:scroll;
+}
+#div2 div
+{
+	height:48%;
+	width:18%;
+	float:left;
+	border:3px solid white;
+	background-color:white;
+	margin-right:auto;
+	margin-left:1.2%;
+	margin-top:0.3%;
+}
+#div2 div img
+{
+	height:97%;
+	width:97%;
+	margin-left:auto;
+	margin-right:auto;
+}
+#div2 div img:hover
+{
+	height:100%;
+	width:100%;
+}
